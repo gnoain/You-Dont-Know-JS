@@ -3,7 +3,7 @@
 
 In this appendix, we'll explore some exercises and their suggested solutions. These are just to *get you started* with practice over the concepts from the book.
 
-## Practicing Comparisons YEAAHH!
+## Practicing Comparisons WO HOOO!
 
 Let's practice working with value types and comparisons (Chapter 4, Pillar 3) where coercion will need to be involved.
 
