@@ -3,7 +3,7 @@
 
 In this appendix, we'll explore some exercises and their suggested solutions. These are just to *get you started* with practice over the concepts from the book.
 
-## Practicing Comparisons
+## Practicing Comparisons YEAAHH!
 
 Let's practice working with value types and comparisons (Chapter 4, Pillar 3) where coercion will need to be involved.
 
@@ -334,3 +334,6 @@ slotMachine.display();
 ```
 
 That's it for this book. But now it's time to look for real projects to practice these ideas on. Just keep coding, because that's the best way to learn!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkyMDM2OTgyOV19
+-->
